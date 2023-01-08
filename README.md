@@ -8,3 +8,6 @@
 - Garlic
 - Steak
 - Ginger
+
+- Ham
+- Bread
