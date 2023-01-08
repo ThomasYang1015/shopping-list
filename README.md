@@ -1,0 +1,10 @@
+- Bacon
+- Eggs
+- Xbox
+- Milk
+- Juice
+- Corn
+- Broccoli
+- Garlic
+- Steak
+- Ginger
